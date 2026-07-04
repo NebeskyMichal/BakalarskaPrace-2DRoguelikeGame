@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c1249f894e53042a4e23d4ffef0e83, type: 3}
+  m_Name: GoldSlime
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  <Image>k__BackingField: {fileID: 21300000, guid: d927907d0f9e2d84591e1cfe550ab6eb, type: 3}
+  <Health>k__BackingField: 50
+  <AttackPower>k__BackingField: 1
+  <HealAmount>k__BackingField: 0
+  <DefendAmount>k__BackingField: 5
+  <DebuffAmount>k__BackingField: 0
+  <PossibleIntents>k__BackingField:
+  - intent: 0
+    chancePercentage: 50
+  - intent: 1
+    chancePercentage: 50

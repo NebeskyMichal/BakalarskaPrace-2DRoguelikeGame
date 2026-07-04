@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34003a0ce330b24eb4c8cde1479443d, type: 3}
+  m_Name: Hero
+  m_EditorClassIdentifier: Assembly-CSharp::HeroData
+  <Image>k__BackingField: {fileID: 21300000, guid: 09004ec46258c7442a8632b2ad5463e0, type: 3}
+  <Health>k__BackingField: 75
+  <Deck>k__BackingField:
+  - {fileID: 11400000, guid: 59b932966c08a964198845da14f8287b, type: 2}
+  - {fileID: 11400000, guid: 59b932966c08a964198845da14f8287b, type: 2}
+  - {fileID: 11400000, guid: 4874c96678afc704e8d91ed8fbca2130, type: 2}
+  - {fileID: 11400000, guid: 4874c96678afc704e8d91ed8fbca2130, type: 2}
+  - {fileID: 11400000, guid: 2c9c8ef31618c754c800f1d78ccb4805, type: 2}
+  <HeroPortrait>k__BackingField: {fileID: 21300000, guid: 2ef5a63212033a845a0f4812a3393504, type: 3}

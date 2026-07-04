@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f762832681f452d48825ba759e798006, type: 3}
+  m_Name: MapNodeIconConfig
+  m_EditorClassIdentifier: Assembly-CSharp::MapIconConfig
+  basicEncounter: {fileID: 21300000, guid: c5a726f8c6cb11f448a298152c96a55b, type: 3}
+  eliteEncounter: {fileID: 21300000, guid: 9ea076d3234fe22498aa9ee5862b91a5, type: 3}
+  bossEncounter: {fileID: 21300000, guid: 84a5a84d854048b4896f1670425f29c0, type: 3}
+  shopEncounter: {fileID: 21300000, guid: 5f2b31b8ef201644f9c2baf709f2140c, type: 3}
+  restEncounter: {fileID: 21300000, guid: 5befbb59ec46da84497e42b9183de6a1, type: 3}
